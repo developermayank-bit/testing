@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300&display=swap');
 @font-face {
     font-family: myFirstFont;
-    src:url(/assets/Gilmer-Regular.02cfdd79.woff);
+    src:url(../assets/Gilmer-Regular.02cfdd79.woff);
 }
 * {
     margin: 0;
